@@ -238,7 +238,6 @@
   <Text Key="Select_Image">Selecciona una imagen</Text>
   <Text Key="Error_Changing_Image">Se ha producido un error al intentar cambiar la imagen. Consulta el archivo 'log' para más información por favor.</Text>
   <Text Key="Add_To_Now_Playing">Añadir a la lista actual de canciones</Text>
-  <Text Key="By_Year">Por año</Text>
   <Text Key="Removing_Songs">Descartando canciones</Text>
   <Text Key="Updating_Songs">Actualizando canciones</Text>
   <Text Key="Hide">Ocultar</Text>
@@ -449,4 +448,7 @@
   <Text Key="Date_Created">Date created</Text>
   <Text Key="Manage_Collection">Manage collection</Text>
   <Text Key="Use_AppCommand_Media_Keys">Enable default multimedia key support</Text>
+  <Text Key="Smart_Playlist_Does_Not_Contain">does not contain</Text>
+  <Text Key="By_Year_Ascending">By year ascending</Text>
+  <Text Key="By_Year_Descending">By year descending</Text>
 </Language>
