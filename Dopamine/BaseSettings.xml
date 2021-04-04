@@ -2,7 +2,7 @@
 <Settings>
   <Namespace Name="Configuration">
     <Setting Name="Version">
-      <Value>117</Value>
+      <Value>119</Value>
     </Setting>
     <Setting Name="IsPortable">
       <Value>False</Value>
@@ -181,6 +181,9 @@
     </Setting>
   </Namespace>
   <Namespace Name="Playback">
+    <Setting Name="PreventSleepWhilePlaying">
+      <Value>False</Value>
+    </Setting>
     <Setting Name="AudioDevice">
       <Value></Value>
     </Setting>
@@ -314,6 +317,11 @@
       <Value></Value>
     </Setting>
     <Setting Name="DownloadArtistInformation">
+      <Value>True</Value>
+    </Setting>
+  </Namespace>
+  <Namespace Name="Discord">
+    <Setting Name="EnableDiscordRichPresence">
       <Value>True</Value>
     </Setting>
   </Namespace>
